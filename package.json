@@ -10,9 +10,13 @@
         "production": "mix --production"
     },
     "devDependencies": {
-        "axios": "^0.21",
-        "laravel-mix": "^6.0.6",
-        "lodash": "^4.17.19",
-        "postcss": "^8.1.14"
+        "@vue/compiler-sfc": "^3.2.31",
+        "array-sort": "^1.0.0",
+        "sass": "^1.44.0",
+        "sass-loader": "^12.4.0",
+        "ts-loader": "^9.2.8",
+        "typescript": "^4.6.3",
+        "vue-loader": "^17.0.0",
+        "vuex-module-decorators": "^1.2.0"
     }
 }
